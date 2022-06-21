@@ -8,7 +8,7 @@
 import Foundation
 
 print("Hello, World!")
-
+print()
 //Bài 5: Viết chương trình command line tool random 1 số tự nhiên từ 1 đến 100. Yêu cầu người dùng nhập vào cho đến khi người dùng nhập đúng số đã random đó.
 //Nếu lớn hơn số random thì thông báo lớn quá và cho nhập lại
 //Nếu bé hơn thì thông báo bé quá và cho nhập lại
